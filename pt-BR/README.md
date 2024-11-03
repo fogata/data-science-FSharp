@@ -1,10 +1,12 @@
-# Data Science Examples in F#
-This solution contains various F# projects demonstrating key data science concepts and theorems.
+# Exemplos de Data Science em F#
 
-## Projects
-- **TeoremaDeBayes**: Calculates conditional probability using Bayes' Theorem.
-- **LeiDosGrandesNumeros**: Simulates the Law of Large Numbers.
-- **TeoremaCentralLimite**: Demonstrates the Central Limit Theorem.
-- **DistanciaEuclidiana**: Calculates Euclidean distance between two points.
+Esta solução contém vários projetos em F# que demonstram conceitos e teoremas fundamentais em Data Science.
 
-Each project can be run independently, illustrating fundamental principles in data science using F#.
+## Projetos
+
+- **TeoremaDeBayes**: Calcula a probabilidade condicional usando o Teorema de Bayes.
+- **LeiDosGrandesNumeros**: Simula a Lei dos Grandes Números.
+- **TeoremaCentralLimite**: Demonstra o Teorema Central do Limite.
+- **DistanciaEuclidiana**: Calcula a distância Euclidiana entre dois pontos.
+
+Cada projeto pode ser executado de forma independente, ilustrando princípios fundamentais em Data Science usando F#.
