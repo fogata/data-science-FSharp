@@ -45,5 +45,5 @@ To get started, clone this repository and explore the folders for different data
 
 **Clone the Repository:**
 ```bash
-git clone https://github.com/yourusername/fsharp-data-science
-cd fsharp-data-science
+git clone https://github.com/fogata/data-science-FSharp
+cd data-science-FSharp
